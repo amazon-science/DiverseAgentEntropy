@@ -1,5 +1,8 @@
 # DiverseAgentEntropy
 
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2412.09572)
+[![License](https://img.shields.io/badge/Licenssse-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This is the repo to reproduce the paper [DiverseAgentEntropy](https://arxiv.org/abs/2412.09572), a novel method for quantifying the uncertainty in the factual parametric knowledge of Large Language Models (LLMs).
 
 ## Setup 
